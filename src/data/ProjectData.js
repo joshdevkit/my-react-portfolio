@@ -38,7 +38,7 @@ export const ProjectList = [
   },
 
   {
-    img: "project-images/web-eccomerce.JPG",
+    img: "project-images/web-ecommerce.JPG",
     title: "MOBILE ECOMMERCE - APPLE STORE",
     description:
       "A specialized web-based for online mobile shopping Application, integrating Stripe payment gateway for easy transactions.",
