@@ -46,6 +46,15 @@ export const ProjectList = [
     github_url: "",
     demo_url: "#",
   },
+  {
+    img: "project-images/geomap.JPG",
+    title: "PROFILING AND MAPPING SYSTEM",
+    description:
+      "A Customized Web Based System for Mapping and Profiling of Dog Owner's.",
+    tech_stack: ["PHP", "MySQL", "JQuery", "BOOTSTRAP"],
+    github_url: "",
+    demo_url: "#",
+  },
 ];
 
 
